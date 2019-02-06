@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Minimum Maximum Quantity\n"
+"POT-Creation-Date: 2019-02-06 12:45+0200\n"
+"PO-Revision-Date: 2019-02-06 12:48+0200\n"
+"Last-Translator: Dor Zuberi <webmaster@dorzki.co.il>\n"
+"Language-Team: Dor Zuberi <webmaster@dorzki.co.il>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-min-max-quantity.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-plugin.php:71
+msgid "Min Max Quantity"
+msgstr "הגבלת כמות רכישה"
+
+#: class-plugin.php:91
+msgid "Minimum Quantity"
+msgstr "כמות מינימלית"
+
+#: class-plugin.php:93
+msgid "Minimum quantity to purchase, set 1 for no minimum limitation."
+msgstr "כמות מינימלית לרכישה, הגדר 1 לביטול הגבלה מינימלית."
+
+#: class-plugin.php:103
+msgid "Maximum Quantity"
+msgstr "כמות מרבית"
+
+#: class-plugin.php:105
+msgid "Maximum quantity to purchase, set 0 for no maximum limitation."
+msgstr "כמות מרבית לרכישה, הגדר 0 לביטול הגבלה מקסימלית."
+
+#: class-plugin.php:203 class-plugin.php:269
+#, php-format
+msgid "You need a quantity of at least %s to add the product to cart."
+msgstr "אתה צריך כמות של לפחות %s כדי להוסיף את המוצר לסל."
+
+#: class-plugin.php:209 class-plugin.php:275
+#, php-format
+msgid "You can purchase a maximum of %s units of this product."
+msgstr "באפשרותך לרכוש מקסימום %s יחידות של מוצר זה."
+
+#. translators: 1: WooCommerce 2: Plugin Name
+#: wc-min-max-quantity.php:69
+#, php-format
+msgid ""
+"\"%1$s\" is required to be installed and activated in order to use \"%2$s\"."
+msgstr "‫“%1$s” נדרש להיום מותקן ומופעל על מנת להשתמש בתוסף “%2$s”."
+
+#: wc-min-max-quantity.php:70
+msgid "WooCommerce"
+msgstr "ווקומרס"
+
+#. Plugin Name of the plugin/theme
+#: wc-min-max-quantity.php:71
+msgid "WooCommerce Minimum Maximum Quantity"
+msgstr "הגבלת כמות רכישה של מוצר"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.dorzki.co.il/minimum-maximum-purchase-limitation-in-woocommerce/"
+msgstr ""
+"https://www.dorzki.co.il/minimum-maximum-purchase-limitation-in-woocommerce/"
+
+#. Description of the plugin/theme
+msgid "WooCommerce plugin to add minimum and maximum limitation to products."
+msgstr "תוסף לווקומרס על מנת להגביל כמות מינימלית ומקסימלית של רכישה של מוצר."
+
+#. Author of the plugin/theme
+msgid "dorzki"
+msgstr "דורזקי"
+
+#. Author URI of the plugin/theme
+msgid "https://www.dorzki.co.il"
+msgstr "https://www.dorzki.co.il"
